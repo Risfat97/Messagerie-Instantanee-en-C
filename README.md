@@ -1,4 +1,4 @@
-Ce projet a été réalisé par Tafsir Mbodj NDIOUR (https://github.com/risfat97/messagerie-instantanee)
+Ce projet a été réalisé par Tafsir Mbodj NDIOUR (https://github.com/risfat97/messagerie-instantanee-en-c)
 
 ** Important: Vous devez disposer d'un système d'exploitation de la famille linux. **
 
